@@ -4,3 +4,5 @@ git add
 git rm --cache 
 git commit -m
 git retsore
+
+some new changes
